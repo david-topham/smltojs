@@ -1,6 +1,6 @@
 if ((typeof(dmfp$33$313$34$3js$0dmfp$33$313$34$3js$1)) == "undefined") {dmfp$33$313$34$3js$0dmfp$33$313$34$3js$1 = {};
 };
-(function(){basis$0General$1.print$163("<html><body><h1>Check for additive inverses</h1><table border='1'><tr><th align='left'>List of numbers:(e.g. 15,18,3,36,12)</th><td><input type='text' id='jL'></td></tr><tr><th align='left'>There is an element in list that divides each of them?:</th><td><div id='jR'>?</div></td></tr></table></body></html>");
+(function(){basis$0General$1.print$163("<html><body><h1>Check for existence of divisor in list</h1><table border='1'><tr><th align='left'>List of numbers:(e.g. 15,18,3,36,12)</th><td><input type='text' id='jL'></td></tr><tr><th align='left'>There is an element in list that divides each of them:</th><td><div id='jR'>?</div></td></tr></table></body></html>");
 dmfp$33$313$34$3js$0dmfp$33$313$34$3js$1.get$54 = function(id$57){var v$62 = (function(d,id){return SmlPrims.option(d.getElementById(id));})(js$0Js$1.document$88,id$57);
 switch (v$62[0]) { case 0: {return v$62[1];
  break; }default: {throw [basis$0Initial$1.en$Fail$54,"Missing id in document: " + id$57];
