@@ -57,7 +57,7 @@ dmfp$33$313$35$3js$0dmfp$33$313$35$3js$1.numbers$108 = function(s$111){return ba
 },s$111));
 };
 dmfp$33$313$35$3js$0dmfp$33$313$35$3js$1.comp$121 = function(v$123){var v$124 = (function(e){return e.value;})(dmfp$33$313$35$3js$0dmfp$33$313$35$3js$1.input1$65);
-(function(e){return e.value;})(dmfp$33$313$35$3js$0dmfp$33$313$35$3js$1.input2$66);
+var v$125 = (function(e){return e.value;})(dmfp$33$313$35$3js$0dmfp$33$313$35$3js$1.input2$66);
 var res$126;
 var t$311;
 var fix$306 = {};
@@ -98,7 +98,7 @@ t$311 = (hasCommonElement$208(basis$0List$1.map$697(function(x$242){return basis
 },basis$0String$1.tokens$224(function(v$249){switch (v$249) { case 44: {return true;
  break; }default: {return (v$249 == 32)?true:((9 <= v$249)?(v$249 <= 13):false);
 } };
-},v$124))));
+},v$125))));
 res$126 = (t$311?"true":"false");
 var r$127;
 var v$251 = (function(d,id){return SmlPrims.option(d.getElementById(id));})(js$0Js$1.document$88,"jR");
